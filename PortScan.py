@@ -37,7 +37,7 @@ def scan_udp(host, port, udp_ports):
 
 def main():
     os.system("clear && figlet PortScan | lolcat")
-    print(f"{Style.BRIGHT}{Fore.GREEN}Made by OusCyb3rH4ck\n{Style.RESET_ALL}")
+    print(f"{Style.BRIGHT}{Fore.GREEN}Made by OusH4x\n{Style.RESET_ALL}")
     
     tcp_ports = []
     udp_ports = []
