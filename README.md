@@ -6,6 +6,6 @@ A simple yet powerful Python script for scanning TCP and UDP ports on a target h
 ## Installation & Usage
 - `sudo apt-get update && sudo apt-get install -y python3-pip figlet lolcat && sudo apt update`
 - `python3 -m pip install --upgrade colorama`
-- `git clone https://github.com/OusCyb3rH4ck/PortScan`
+- `git clone https://github.com/OusH4x/PortScan`
 - `cd PortScan`
 - `python3 PortScan.py`
