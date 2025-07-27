@@ -46,10 +46,11 @@ go build -ldflags "-s -w" PortScan.go && upx PortScan
 
 ---
 
-## 🧪 Example
+## 🧪 Examples
 
 ```bash
 ./PortScan 192.168.1.1
+
 ./PortScan scanme.nmap.org -p20-1024 -w500 -t300 -c
 ```
 
